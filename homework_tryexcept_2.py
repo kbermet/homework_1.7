@@ -17,6 +17,6 @@ def func(files):
             else:
                 i.write("Bermet")
                 i.close()
-print (func(names))
+print(func(names))
 
 

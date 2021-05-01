@@ -21,4 +21,4 @@ def func(dct, lst):
             print(f"ключа {i} не существует")
 
 
-func(example,elements)
+func(example, elements)
