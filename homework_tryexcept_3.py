@@ -9,4 +9,4 @@ for i in range(12):
     except ZeroDivisionError:
         print(0)
         continue
-print(sum(coeff)/12)
+print (sum(coeff)/12)
